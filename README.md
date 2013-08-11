@@ -1,5 +1,5 @@
 # wScratchPad.js
-#一个jQuery插件模仿刮奖或垫行为。允许你刮开覆盖颜色或图像
+
 A jQuery plugin to mimic a scratch card or pad behaviour.  Allowing you to scratch off an overlay as either a color or image.
 
 * [View the wScratchPad demo](http://wscratchpad.websanova.com)
